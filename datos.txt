@@ -1,0 +1,9 @@
+Carrera: Diseño y programación web
+Materia: Portales y Comercio electrónico
+Cuatrimestre: Cuarto
+Año: 2024
+Turno: Mañana
+Comisión: DWM4AH
+Nombre y apellid: Juan Cruz Leone y Kevin Cingolani
+Docente: Santiago Gallino
+Entrega: Segundo parcial
